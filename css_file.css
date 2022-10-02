@@ -25,3 +25,17 @@ a:hover {
     border-width: 3px;
     border-color: rgb(42,161,152);
 }
+
+.heading {
+    text-align: center;
+    size: 150%;
+    color: rgb(181,137,  0);
+}
+
+.flex_list {
+    text-align: center;
+    display: flex;
+    width: 100%;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
