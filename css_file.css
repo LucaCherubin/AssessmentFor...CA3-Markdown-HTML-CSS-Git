@@ -1,0 +1,9 @@
+@import url();
+
+body {
+    background-color: rgb(131,148,150)
+}
+
+header, footer {
+    background-color:rgb(7, 54, 66);
+}
