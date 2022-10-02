@@ -30,7 +30,6 @@ a:hover {
     text-align: center;
     size: 150%;
     color: rgb(181,137,  0);
-    padding-bottom: 50px;
     letter-spacing: 10px;
 }
 
@@ -71,13 +70,13 @@ a:hover {
     margin: auto;    /* This is extra that wasn't required but it bothered me :) */
 }
 
-h1, h2, h3 {
-    padding-top: 50px;
-}
-
 .left_column {
     float: left;
     width: 80%;
+}
+
+.left_column h2, h3 {
+    padding-top: 50px;
 }
 
 .left_column h2 {
