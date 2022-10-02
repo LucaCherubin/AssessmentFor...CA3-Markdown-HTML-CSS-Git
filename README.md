@@ -62,4 +62,4 @@ These are the tasks that I need to work through:
 </tr>
 </table>
 
-As I complete all the task required, I will commit the progress to <u>Git repository</u>.
+As I will complete all the task required, I will commit the progress to <u>Git repository</u>.
