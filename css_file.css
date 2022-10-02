@@ -30,6 +30,8 @@ a:hover {
     text-align: center;
     size: 150%;
     color: rgb(181,137,  0);
+    padding-bottom: 50px;
+    letter-spacing: 10px;
 }
 
 .flex_list {
@@ -38,10 +40,21 @@ a:hover {
     width: 100%;
     flex-wrap: nowrap;
     justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+.nav_bar {
+    border-right: solid;
+    border-left: solid;
+    border-width: 3px;
+    border-color: rgb(131,148,150);
+    padding-left: 9px;
+    padding-right: 9px;
 }
 
 .aside {
     color: rgb(133,153,0);
+    padding-right: 25px;
 }
 
 .aside a {
@@ -67,6 +80,15 @@ h1, h2, h3 {
     width: 80%;
 }
 
+.left_column h2 {
+    font-weight: bold;
+}
+
+.left_column h2,h3,p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .right_column {
     float: left;
     width: 20%;
@@ -75,4 +97,14 @@ h1, h2, h3 {
 
 footer {
     clear: both;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-style: italic;
+}
+
+.related{
+    padding-left: 25px;
+    font-style: oblique;
+    font-style: italic;
+    text-decoration: underline;
 }
